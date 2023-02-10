@@ -1,5 +1,6 @@
 body    {
         background-color: antiquewhite;
+        margin: 20px;
 }
 
 h1      {
@@ -7,5 +8,9 @@ h1      {
 }
 
 h2      {
-        color: navy;
+        color: navy;}
+
+p       {
+        color:darkgreen;
+        font-size: 1.2em;
 }
